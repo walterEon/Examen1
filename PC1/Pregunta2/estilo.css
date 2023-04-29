@@ -1,0 +1,106 @@
+header{
+    display: flex;
+    background-color: #D9D9D9;
+    margin: 10;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.menu{
+    display: flex;
+    padding-left: 10px;
+}
+
+.menu li{
+    list-style-type: none;
+    margin-right: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+#login{
+    float: right;
+    margin-left: 430px;
+}
+
+.padre{
+    display: flex;
+}
+
+.overwatch{
+    background-image: url(01.jpg);
+    background-repeat: no-repeat;
+    background-size: 620px 620px;
+    width:650px;
+    height:500px;
+    margin: 10px;
+}
+
+h6{
+    background-color: rgb(201, 201, 38);
+    margin: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 8px;
+    float:left;
+    margin-top: 200px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 45px;
+    margin: 10;
+    margin-top: 200px;
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10;
+    margin-top: 170px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10;
+    color: black;
+    margin-top: 200px;
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 37px;
+    margin: 15px;
+}
+
+p{
+    margin:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.gamepass{
+    background-color: #006b0b;
+    height: 250px;
+    width: 400px;
+    margin-top: 10px;
+    display: block;
+
+}
+
+.imagenGP{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.mando{
+    background-image: url(03.jpg);
+    background-size: 500px 650px ;
+    display: none;
+}
+
